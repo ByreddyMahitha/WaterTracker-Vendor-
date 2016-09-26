@@ -1,0 +1,12 @@
+body {
+background-image: url("water.jpg");}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+.content-wrapper,
+.left-side {
+  background-color: #ffffff;
+}

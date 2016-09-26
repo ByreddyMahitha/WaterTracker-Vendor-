@@ -1,0 +1,7 @@
+ID,Age,Female,Racegrp,Educ,Unmarried,Income,CareSource,Insured,Weight,Height,BMI,Obese,Waist,SBP,DBP,HDL,LDL,Total Chol,Dyslipidemia,PVD,Activity,PoorVision,Smoker,Hypertension,Fam Hypertension,Diabetes,Fam Diabetes,Stroke,CVD,Fam CVD,CHF,Anemia,CKD,
+1,65,1,white,0,0,1,other,1,56,162.1,21.31,0,83.6,135,71,48,249,297,0,0,3,0,1,0,0,0,1,0,1,0,0,0,0,
+2,36,1,hispa,0,,1,noplace,0,60.2,162.2,22.88,0,76.6,96,52,31,135,166,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,
+,,,,,
+,,,,,,,clinic,,,
+,,
+,,

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "ID,Age,Female,Racegrp,Educ,Unmarried,Income,CareSource,Insured,Weight,Height,BMI,Obese,Waist,SBP,DBP,HDL,LDL,Total Chol,Dyslipidemia,PVD,Activity,PoorVision,Smoker,Hypertension,Fam Hypertension,Diabetes,Fam Diabetes,Stroke,CVD,Fam CVD,CHF,Anemia,CKD,\n1,65,1,white,0,0,1,other,1,56,162.1,21.31,0,83.6,135,71,48,249,297,0,0,3,0,1,0,0,0,1,0,1,0,0,0,0,\n\n4,54,1,white,1,0,0,DrHMO,1,69.4,160.5,26.94,0,77.9,110,57,74,156,230,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,\n3,66,1,white,0,1,0,noplace,1,83.9,162.5,31.77,1,113.2,115,57,44,211,255,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,\n2,36,1,hispa,0,,1,noplace,0,60.2,162.2,22.88,0,76.6,96,52,31,135,166,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,\n8,59,1,white,1,1,0,DrHMO,1,69.9,160.9,27,0,101.5,124,73,43,140,183,0,0,2,0,0,0,1,1,1,0,0,1,0,0,0,\n5,63,1,black,0,0,,clinic,1,73.1,159.2,28.84,0,89.3,132,73,67,154,221,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,\n11,47,0,white,1,0,1,DrHMO,1,99.6,188.2,28.12,0,95.1,,,63,162,225,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,\n10,78,1,black,0,1,0,DrHMO,1,47.6,155.3,19.74,0,70.3,170,78,105,90,195,0,0,1,0,0,1,0,1,1,1,1,1,,0,0,\n12,47,1,hispa,0,0,1,DrHMO,0,49,155.3,20.32,0,78.6,146,87,76,133,209,0,0,3,,0,1,0,0,0,0,0,0,0,0,0,\n9,53,1,white,1,0,1,DrHMO,1,75.2,174.1,24.81,0,85.6,110,74,62,110,172,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,\n7,66,0,black,1,0,0,DrHMO,0,85.1,172.1,28.73,0,99.2,137,92,41,143,184,0,0,3,0,0,1,0,0,0,0,0,1,0,0,0,\n6,26,0,white,1,0,0,DrHMO,1,119.3,193.2,31.96,1,117.9,129,70,43,159,202,0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,\n",
+    "created" : 1469482458656.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1572589233",
+    "id" : "51A7478D",
+    "lastKnownWriteTime" : 1469512824,
+    "last_content_update" : 1469512824,
+    "path" : "C:/Users/ramky/Desktop/projects/Divergents_CMPE 239 Project  (1)/Divergents_CMPE 239 Project/CKD-Test-master/CKD_Screening_Data_for_Model_Building_1.csv",
+    "project_path" : "CKD_Screening_Data_for_Model_Building_1.csv",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

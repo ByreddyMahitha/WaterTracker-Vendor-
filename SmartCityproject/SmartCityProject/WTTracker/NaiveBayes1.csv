@@ -1,0 +1,5 @@
+Age,Female,Racegrp,Educ,Unmarried,Income,CareSource,Insured,Weight,Height,BMI,Obese,Waist,SBP,DBP,HDL,LDL,Total.Chol,Dyslipidemia,PVD,Activity,PoorVision,Smoker,Hypertension,Fam.Hypertension,Diabetes,Fam.Diabetes,Stroke,CVD,Fam.CVD,CHF,Anemia,Preferred
+69,Yes,white,HighSchool,No,AboveMedian,DrHMO,Yes,73.5,157.7,29.55,No,91,128,73,65,112,177,No,No,Sit,No,No,Yes,No,No,Yes,No,No,No,No,No,0
+40,No,white,HighSchool,Yes,BelowMedian,DrHMO,No,68.3,180.6,20.94,No,89.3,131,75,47,101,148,No,No,Heavy,No,No,No,Yes,No,Yes,No,No,Yes,No,No,0
+70,Yes,black,HighSchool,Yes,BelowMedian,clinic,Yes,68.4,154.8,28.54,No,98.3,129,76,45,239,284,No,No,Sit,No,Yes,No,No,No,No,No,No,No,No,No,0
+24,Yes,hispa,HighSchool,No,BelowMedian,DrHMO,Yes,65.5,154.2,27.55,No,83.5,107,71,43,66,109,No,No,Walk,No,No,No,No,No,No,No,No,No,No,No,0

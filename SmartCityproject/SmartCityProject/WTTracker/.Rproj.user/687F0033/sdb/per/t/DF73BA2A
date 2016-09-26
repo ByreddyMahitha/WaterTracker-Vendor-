@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : " \ninstall.packages(\"caret\")\nlibrary(caret)\ninstall.packages(\"caTools\")\nlibrary(caTools)\ninstall.packages(\"ROCR\")\nlibrary(ROCR)\ninstall.packages(\"class\")\nlibrary(class)\ninstall.packages(\"MASS\")\nlibrary(MASS)\ninstall.packages(\"e1071\")\nlibrary(e1071)\ninstall.packages(\"rpart\")\nlibrary(rpart)\ninstall.packages(\"rpart.plot\")\nlibrary(rpart.plot)\ninstall.packages(\"party\")\nlibrary(party)\ninstall.packages(\"kernlab\")\nlibrary(kernlab)\ninstall.packages(\"neuralnet\")\nlibrary(neuralnet)\n\n\n\nModelData <- read.csv(\"trainingdata.csv\")\n\n\n\n\nModelData <- na.omit(ModelData)\n\n\n\n\n\n#Keep separate copy of datasets, start factorizing variables in new copies\nModelDataFactored <- ModelData\n\nsource(\"Model-Factorize.R\")\n\n\n\n\nsource(\"SVM.R\")\n\n\nsource(\"NaiveBayes.R\")\n\n\nsource(\"NeuralNet.R\")",
+    "created" : 1469478363470.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3160657317",
+    "id" : "DF73BA2A",
+    "lastKnownWriteTime" : 1469147193,
+    "last_content_update" : 1469147193,
+    "path" : "C:/Users/ramky/Desktop/projects/Divergents_CMPE 239 Project  (1)/Divergents_CMPE 239 Project/CKD-Test-master/CKD-Test.R",
+    "project_path" : "CKD-Test.R",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

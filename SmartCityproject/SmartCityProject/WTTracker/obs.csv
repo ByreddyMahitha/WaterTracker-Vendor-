@@ -1,0 +1,1044 @@
+region,indicator,Unit,Date,Value
+Contra Costa,population,thousands,1/1/2000 0:00,21.14
+Contra Costa,population,thousands,1/1/2005 0:00,30.846
+Contra Costa,population,thousands,1/1/2010 0:00,36.045
+Contra Costa,groundwater,Mgal/d,1/1/2000 0:00,1.43
+Contra Costa,groundwater,Mgal/d,1/1/2005 0:00,28.87
+Contra Costa,groundwater,Mgal/d,1/1/2010 0:00,2.05
+Contra Costa,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.16
+Contra Costa,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Contra Costa,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.66
+Contra Costa,selfsupplied,Mgal/d,1/1/2000 0:00,1.59
+Contra Costa,selfsupplied,Mgal/d,1/1/2005 0:00,28.87
+Contra Costa,selfsupplied,Mgal/d,1/1/2010 0:00,2.71
+Contra Costa,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Contra Costa,public,Mgal/d,1/1/2005 0:00,112.37
+Contra Costa,public,Mgal/d,1/1/2010 0:00,90.72
+Contra Costa,publicpercapita,gallons/day,1/1/2010 0:00,90
+Contra Costa,total,Mgal/d,1/1/2005 0:00,141.24
+Contra Costa,total,Mgal/d,1/1/2010 0:00,93.43
+Alameda,population,thousands,1/1/2000 0:00,176.86
+Alameda,population,thousands,1/1/2005 0:00,15.411
+Alameda,population,thousands,1/1/2010 0:00,61.571
+Alameda,groundwater,Mgal/d,1/1/2000 0:00,11.94
+Alameda,groundwater,Mgal/d,1/1/2005 0:00,2.67
+Alameda,groundwater,Mgal/d,1/1/2010 0:00,3.3
+Alameda,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,1.33
+Alameda,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.83
+Alameda,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,1.32
+Alameda,selfsupplied,Mgal/d,1/1/2000 0:00,13.27
+Alameda,selfsupplied,Mgal/d,1/1/2005 0:00,3.5
+Alameda,selfsupplied,Mgal/d,1/1/2010 0:00,4.62
+Alameda,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Alameda,public,Mgal/d,1/1/2005 0:00,73.34
+Alameda,public,Mgal/d,1/1/2010 0:00,124.4
+Alameda,publicpercapita,gallons/day,1/1/2010 0:00,86
+Alameda,total,Mgal/d,1/1/2005 0:00,76.84
+Alameda,total,Mgal/d,1/1/2010 0:00,129.02
+Alpine,population,thousands,1/1/2000 0:00,0.61
+Alpine,population,thousands,1/1/2005 0:00,0.839
+Alpine,population,thousands,1/1/2010 0:00,0.425
+Alpine,groundwater,Mgal/d,1/1/2000 0:00,0.04
+Alpine,groundwater,Mgal/d,1/1/2005 0:00,0.01
+Alpine,groundwater,Mgal/d,1/1/2010 0:00,0.03
+Alpine,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0
+Alpine,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Alpine,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.01
+Alpine,selfsupplied,Mgal/d,1/1/2000 0:00,0.04
+Alpine,selfsupplied,Mgal/d,1/1/2005 0:00,0.01
+Alpine,selfsupplied,Mgal/d,1/1/2010 0:00,0.04
+Alpine,selfpercapitause,gallons/day,1/1/2010 0:00,94
+Alpine,public,Mgal/d,1/1/2005 0:00,0.08
+Alpine,public,Mgal/d,1/1/2010 0:00,0.08
+Alpine,publicpercapita,gallons/day,1/1/2010 0:00,107
+Alpine,total,Mgal/d,1/1/2005 0:00,0.09
+Alpine,total,Mgal/d,1/1/2010 0:00,0.12
+Amador,population,thousands,1/1/2000 0:00,8.28
+Amador,population,thousands,1/1/2005 0:00,18.246
+Amador,population,thousands,1/1/2010 0:00,7.881
+Amador,groundwater,Mgal/d,1/1/2000 0:00,0.56
+Amador,groundwater,Mgal/d,1/1/2005 0:00,0.13
+Amador,groundwater,Mgal/d,1/1/2010 0:00,0.44
+Amador,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.06
+Amador,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Amador,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.13
+Amador,selfsupplied,Mgal/d,1/1/2000 0:00,0.62
+Amador,selfsupplied,Mgal/d,1/1/2005 0:00,0.13
+Amador,selfsupplied,Mgal/d,1/1/2010 0:00,0.57
+Amador,selfpercapitause,gallons/day,1/1/2010 0:00,72
+Amador,public,Mgal/d,1/1/2005 0:00,4.81
+Amador,public,Mgal/d,1/1/2010 0:00,3.12
+Amador,publicpercapita,gallons/day,1/1/2010 0:00,103
+Amador,total,Mgal/d,1/1/2005 0:00,4.94
+Amador,total,Mgal/d,1/1/2010 0:00,3.69
+Butte,population,thousands,1/1/2000 0:00,38.4
+Butte,population,thousands,1/1/2005 0:00,2.264
+Butte,population,thousands,1/1/2010 0:00,33.8
+Butte,groundwater,Mgal/d,1/1/2000 0:00,2.59
+Butte,groundwater,Mgal/d,1/1/2005 0:00,9.48
+Butte,groundwater,Mgal/d,1/1/2010 0:00,2.21
+Butte,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.29
+Butte,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Butte,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.33
+Butte,selfsupplied,Mgal/d,1/1/2000 0:00,2.88
+Butte,selfsupplied,Mgal/d,1/1/2005 0:00,9.48
+Butte,selfsupplied,Mgal/d,1/1/2010 0:00,2.54
+Butte,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Butte,public,Mgal/d,1/1/2005 0:00,35.78
+Butte,public,Mgal/d,1/1/2010 0:00,28.92
+Butte,publicpercapita,gallons/day,1/1/2010 0:00,155
+Butte,total,Mgal/d,1/1/2005 0:00,45.26
+Butte,total,Mgal/d,1/1/2010 0:00,31.46
+Calaveras,population,thousands,1/1/2000 0:00,4.94
+Calaveras,population,thousands,1/1/2005 0:00,7.973
+Calaveras,population,thousands,1/1/2010 0:00,12.568
+Calaveras,groundwater,Mgal/d,1/1/2000 0:00,0.33
+Calaveras,groundwater,Mgal/d,1/1/2005 0:00,3.97
+Calaveras,groundwater,Mgal/d,1/1/2010 0:00,0.58
+Calaveras,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.04
+Calaveras,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.01
+Calaveras,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.2
+Calaveras,selfsupplied,Mgal/d,1/1/2000 0:00,0.37
+Calaveras,selfsupplied,Mgal/d,1/1/2005 0:00,3.98
+Calaveras,selfsupplied,Mgal/d,1/1/2010 0:00,0.78
+Calaveras,selfpercapitause,gallons/day,1/1/2010 0:00,62
+Calaveras,public,Mgal/d,1/1/2005 0:00,9.04
+Calaveras,public,Mgal/d,1/1/2010 0:00,6.33
+Calaveras,publicpercapita,gallons/day,1/1/2010 0:00,192
+Calaveras,total,Mgal/d,1/1/2005 0:00,13.02
+Calaveras,total,Mgal/d,1/1/2010 0:00,7.11
+Colusa,population,thousands,1/1/2000 0:00,7.06
+Colusa,population,thousands,1/1/2005 0:00,9.963
+Colusa,population,thousands,1/1/2010 0:00,3.479
+Colusa,groundwater,Mgal/d,1/1/2000 0:00,0.48
+Colusa,groundwater,Mgal/d,1/1/2005 0:00,0.99
+Colusa,groundwater,Mgal/d,1/1/2010 0:00,0.24
+Colusa,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.05
+Colusa,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.25
+Colusa,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.02
+Colusa,selfsupplied,Mgal/d,1/1/2000 0:00,0.53
+Colusa,selfsupplied,Mgal/d,1/1/2005 0:00,1.24
+Colusa,selfsupplied,Mgal/d,1/1/2010 0:00,0.26
+Colusa,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Colusa,public,Mgal/d,1/1/2005 0:00,2.71
+Colusa,public,Mgal/d,1/1/2010 0:00,2.26
+Colusa,publicpercapita,gallons/day,1/1/2010 0:00,126
+Colusa,total,Mgal/d,1/1/2005 0:00,3.95
+Colusa,total,Mgal/d,1/1/2010 0:00,2.52
+Del Norte,population,thousands,1/1/2000 0:00,9.07
+Del Norte,population,thousands,1/1/2005 0:00,9.325
+Del Norte,population,thousands,1/1/2010 0:00,7.87
+Del Norte,groundwater,Mgal/d,1/1/2000 0:00,0.61
+Del Norte,groundwater,Mgal/d,1/1/2005 0:00,0.3
+Del Norte,groundwater,Mgal/d,1/1/2010 0:00,0.49
+Del Norte,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.07
+Del Norte,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.3
+Del Norte,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.1
+Del Norte,selfsupplied,Mgal/d,1/1/2000 0:00,0.68
+Del Norte,selfsupplied,Mgal/d,1/1/2005 0:00,0.6
+Del Norte,selfsupplied,Mgal/d,1/1/2010 0:00,0.59
+Del Norte,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Del Norte,public,Mgal/d,1/1/2005 0:00,2.26
+Del Norte,public,Mgal/d,1/1/2010 0:00,1.33
+Del Norte,publicpercapita,gallons/day,1/1/2010 0:00,64
+Del Norte,total,Mgal/d,1/1/2005 0:00,2.86
+Del Norte,total,Mgal/d,1/1/2010 0:00,1.92
+El Dorado,population,thousands,1/1/2000 0:00,12.76
+El Dorado,population,thousands,1/1/2005 0:00,6.99
+El Dorado,population,thousands,1/1/2010 0:00,13.498
+El Dorado,groundwater,Mgal/d,1/1/2000 0:00,0.86
+El Dorado,groundwater,Mgal/d,1/1/2005 0:00,16.4
+El Dorado,groundwater,Mgal/d,1/1/2010 0:00,0.64
+El Dorado,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.1
+El Dorado,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.08
+El Dorado,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.17
+El Dorado,selfsupplied,Mgal/d,1/1/2000 0:00,0.96
+El Dorado,selfsupplied,Mgal/d,1/1/2005 0:00,16.48
+El Dorado,selfsupplied,Mgal/d,1/1/2010 0:00,0.81
+El Dorado,selfpercapitause,gallons/day,1/1/2010 0:00,60
+El Dorado,public,Mgal/d,1/1/2005 0:00,21.8
+El Dorado,public,Mgal/d,1/1/2010 0:00,21.27
+El Dorado,publicpercapita,gallons/day,1/1/2010 0:00,127
+El Dorado,total,Mgal/d,1/1/2005 0:00,38.28
+El Dorado,total,Mgal/d,1/1/2010 0:00,22.08
+Fresno,population,thousands,1/1/2000 0:00,41.73
+Fresno,population,thousands,1/1/2005 0:00,136.777
+Fresno,population,thousands,1/1/2010 0:00,105.24
+Fresno,groundwater,Mgal/d,1/1/2000 0:00,2.82
+Fresno,groundwater,Mgal/d,1/1/2005 0:00,36.06
+Fresno,groundwater,Mgal/d,1/1/2010 0:00,7.11
+Fresno,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.31
+Fresno,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,4.01
+Fresno,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.53
+Fresno,selfsupplied,Mgal/d,1/1/2000 0:00,3.13
+Fresno,selfsupplied,Mgal/d,1/1/2005 0:00,40.07
+Fresno,selfsupplied,Mgal/d,1/1/2010 0:00,7.64
+Fresno,selfpercapitause,gallons/day,1/1/2010 0:00,73
+Fresno,public,Mgal/d,1/1/2005 0:00,159.95
+Fresno,public,Mgal/d,1/1/2010 0:00,131.29
+Fresno,publicpercapita,gallons/day,1/1/2010 0:00,159
+Fresno,total,Mgal/d,1/1/2005 0:00,200.02
+Fresno,total,Mgal/d,1/1/2010 0:00,138.93
+Glenn,population,thousands,1/1/2000 0:00,12.26
+Glenn,population,thousands,1/1/2005 0:00,11.372
+Glenn,population,thousands,1/1/2010 0:00,9.852
+Glenn,groundwater,Mgal/d,1/1/2000 0:00,0.83
+Glenn,groundwater,Mgal/d,1/1/2005 0:00,1.65
+Glenn,groundwater,Mgal/d,1/1/2010 0:00,0.66
+Glenn,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.09
+Glenn,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.66
+Glenn,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.07
+Glenn,selfsupplied,Mgal/d,1/1/2000 0:00,0.92
+Glenn,selfsupplied,Mgal/d,1/1/2005 0:00,2.31
+Glenn,selfsupplied,Mgal/d,1/1/2010 0:00,0.73
+Glenn,selfpercapitause,gallons/day,1/1/2010 0:00,74
+Glenn,public,Mgal/d,1/1/2005 0:00,5.99
+Glenn,public,Mgal/d,1/1/2010 0:00,2.65
+Glenn,publicpercapita,gallons/day,1/1/2010 0:00,145
+Glenn,total,Mgal/d,1/1/2005 0:00,8.3
+Glenn,total,Mgal/d,1/1/2010 0:00,3.38
+Humboldt,population,thousands,1/1/2000 0:00,16.35
+Humboldt,population,thousands,1/1/2005 0:00,57.894
+Humboldt,population,thousands,1/1/2010 0:00,10.322
+Humboldt,groundwater,Mgal/d,1/1/2000 0:00,1.1
+Humboldt,groundwater,Mgal/d,1/1/2005 0:00,1.46
+Humboldt,groundwater,Mgal/d,1/1/2010 0:00,0.44
+Humboldt,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.12
+Humboldt,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,1.46
+Humboldt,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.24
+Humboldt,selfsupplied,Mgal/d,1/1/2000 0:00,1.22
+Humboldt,selfsupplied,Mgal/d,1/1/2005 0:00,2.92
+Humboldt,selfsupplied,Mgal/d,1/1/2010 0:00,0.68
+Humboldt,selfpercapitause,gallons/day,1/1/2010 0:00,66
+Humboldt,public,Mgal/d,1/1/2005 0:00,11.72
+Humboldt,public,Mgal/d,1/1/2010 0:00,9.18
+Humboldt,publicpercapita,gallons/day,1/1/2010 0:00,74
+Humboldt,total,Mgal/d,1/1/2005 0:00,14.64
+Humboldt,total,Mgal/d,1/1/2010 0:00,9.86
+Imperial,population,thousands,1/1/2000 0:00,5.4
+Imperial,population,thousands,1/1/2005 0:00,30.584
+Imperial,population,thousands,1/1/2010 0:00,18.178
+Imperial,groundwater,Mgal/d,1/1/2000 0:00,0.36
+Imperial,groundwater,Mgal/d,1/1/2005 0:00,0.05
+Imperial,groundwater,Mgal/d,1/1/2010 0:00,0.28
+Imperial,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.04
+Imperial,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.08
+Imperial,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.3
+Imperial,selfsupplied,Mgal/d,1/1/2000 0:00,0.4
+Imperial,selfsupplied,Mgal/d,1/1/2005 0:00,0.13
+Imperial,selfsupplied,Mgal/d,1/1/2010 0:00,0.58
+Imperial,selfpercapitause,gallons/day,1/1/2010 0:00,32
+Imperial,public,Mgal/d,1/1/2005 0:00,24.14
+Imperial,public,Mgal/d,1/1/2010 0:00,18.03
+Imperial,publicpercapita,gallons/day,1/1/2010 0:00,115
+Imperial,total,Mgal/d,1/1/2005 0:00,24.27
+Imperial,total,Mgal/d,1/1/2010 0:00,18.61
+Inyo,population,thousands,1/1/2000 0:00,11.04
+Inyo,population,thousands,1/1/2005 0:00,3.298
+Inyo,population,thousands,1/1/2010 0:00,1.616
+Inyo,groundwater,Mgal/d,1/1/2000 0:00,0.75
+Inyo,groundwater,Mgal/d,1/1/2005 0:00,1.34
+Inyo,groundwater,Mgal/d,1/1/2010 0:00,0.09
+Inyo,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.08
+Inyo,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,1.49
+Inyo,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.03
+Inyo,selfsupplied,Mgal/d,1/1/2000 0:00,0.83
+Inyo,selfsupplied,Mgal/d,1/1/2005 0:00,2.83
+Inyo,selfsupplied,Mgal/d,1/1/2010 0:00,0.12
+Inyo,selfpercapitause,gallons/day,1/1/2010 0:00,74
+Inyo,public,Mgal/d,1/1/2005 0:00,5.77
+Inyo,public,Mgal/d,1/1/2010 0:00,2.19
+Inyo,publicpercapita,gallons/day,1/1/2010 0:00,129
+Inyo,total,Mgal/d,1/1/2005 0:00,8.6
+Inyo,total,Mgal/d,1/1/2010 0:00,2.31
+Kern,population,thousands,1/1/2000 0:00,76.05
+Kern,population,thousands,1/1/2005 0:00,54.695
+Kern,population,thousands,1/1/2010 0:00,54.071
+Kern,groundwater,Mgal/d,1/1/2000 0:00,5.13
+Kern,groundwater,Mgal/d,1/1/2005 0:00,17.78
+Kern,groundwater,Mgal/d,1/1/2010 0:00,2.09
+Kern,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.57
+Kern,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,1.98
+Kern,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.19
+Kern,selfsupplied,Mgal/d,1/1/2000 0:00,5.7
+Kern,selfsupplied,Mgal/d,1/1/2005 0:00,19.76
+Kern,selfsupplied,Mgal/d,1/1/2010 0:00,2.28
+Kern,selfpercapitause,gallons/day,1/1/2010 0:00,42
+Kern,public,Mgal/d,1/1/2005 0:00,111.19
+Kern,public,Mgal/d,1/1/2010 0:00,134.02
+Kern,publicpercapita,gallons/day,1/1/2010 0:00,171
+Kern,total,Mgal/d,1/1/2005 0:00,130.95
+Kern,total,Mgal/d,1/1/2010 0:00,136.3
+Kings,population,thousands,1/1/2000 0:00,20.99
+Kings,population,thousands,1/1/2005 0:00,30.865
+Kings,population,thousands,1/1/2010 0:00,15.252
+Kings,groundwater,Mgal/d,1/1/2000 0:00,1.42
+Kings,groundwater,Mgal/d,1/1/2005 0:00,5.4
+Kings,groundwater,Mgal/d,1/1/2010 0:00,1.05
+Kings,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.16
+Kings,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.6
+Kings,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.09
+Kings,selfsupplied,Mgal/d,1/1/2000 0:00,1.58
+Kings,selfsupplied,Mgal/d,1/1/2005 0:00,6
+Kings,selfsupplied,Mgal/d,1/1/2010 0:00,1.14
+Kings,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Kings,public,Mgal/d,1/1/2005 0:00,18.11
+Kings,public,Mgal/d,1/1/2010 0:00,19.25
+Kings,publicpercapita,gallons/day,1/1/2010 0:00,140
+Kings,total,Mgal/d,1/1/2005 0:00,24.11
+Kings,total,Mgal/d,1/1/2010 0:00,20.39
+Lake,population,thousands,1/1/2000 0:00,13.65
+Lake,population,thousands,1/1/2005 0:00,33.693
+Lake,population,thousands,1/1/2010 0:00,25.945
+Lake,groundwater,Mgal/d,1/1/2000 0:00,0.92
+Lake,groundwater,Mgal/d,1/1/2005 0:00,1.04
+Lake,groundwater,Mgal/d,1/1/2010 0:00,1.64
+Lake,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.1
+Lake,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Lake,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.31
+Lake,selfsupplied,Mgal/d,1/1/2000 0:00,1.02
+Lake,selfsupplied,Mgal/d,1/1/2005 0:00,1.04
+Lake,selfsupplied,Mgal/d,1/1/2010 0:00,1.95
+Lake,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Lake,public,Mgal/d,1/1/2005 0:00,6.81
+Lake,public,Mgal/d,1/1/2010 0:00,6.4
+Lake,publicpercapita,gallons/day,1/1/2010 0:00,165
+Lake,total,Mgal/d,1/1/2005 0:00,7.85
+Lake,total,Mgal/d,1/1/2010 0:00,8.35
+Lassen,population,thousands,1/1/2000 0:00,16.72
+Lassen,population,thousands,1/1/2005 0:00,20.236
+Lassen,population,thousands,1/1/2010 0:00,18.215
+Lassen,groundwater,Mgal/d,1/1/2000 0:00,1.13
+Lassen,groundwater,Mgal/d,1/1/2005 0:00,3.14
+Lassen,groundwater,Mgal/d,1/1/2010 0:00,0.47
+Lassen,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.13
+Lassen,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.9
+Lassen,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.09
+Lassen,selfsupplied,Mgal/d,1/1/2000 0:00,1.26
+Lassen,selfsupplied,Mgal/d,1/1/2005 0:00,4.04
+Lassen,selfsupplied,Mgal/d,1/1/2010 0:00,0.56
+Lassen,selfpercapitause,gallons/day,1/1/2010 0:00,31
+Lassen,public,Mgal/d,1/1/2005 0:00,6.75
+Lassen,public,Mgal/d,1/1/2010 0:00,3.52
+Lassen,publicpercapita,gallons/day,1/1/2010 0:00,211
+Lassen,total,Mgal/d,1/1/2005 0:00,10.79
+Lassen,total,Mgal/d,1/1/2010 0:00,4.08
+Los Angeles,population,thousands,1/1/2000 0:00,1010.12
+Los Angeles,population,thousands,1/1/2005 0:00,859.199
+Los Angeles,population,thousands,1/1/2010 0:00,575.905
+Los Angeles,groundwater,Mgal/d,1/1/2000 0:00,68.18
+Los Angeles,groundwater,Mgal/d,1/1/2005 0:00,10.42
+Los Angeles,groundwater,Mgal/d,1/1/2010 0:00,31.21
+Los Angeles,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,7.58
+Los Angeles,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,8.68
+Los Angeles,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,9.23
+Los Angeles,selfsupplied,Mgal/d,1/1/2000 0:00,75.76
+Los Angeles,selfsupplied,Mgal/d,1/1/2005 0:00,19.1
+Los Angeles,selfsupplied,Mgal/d,1/1/2010 0:00,40.44
+Los Angeles,selfpercapitause,gallons/day,1/1/2010 0:00,70
+Los Angeles,public,Mgal/d,1/1/2005 0:00,1106.66
+Los Angeles,public,Mgal/d,1/1/2010 0:00,927.69
+Los Angeles,publicpercapita,gallons/day,1/1/2010 0:00,100
+Los Angeles,total,Mgal/d,1/1/2005 0:00,1125.76
+Los Angeles,total,Mgal/d,1/1/2010 0:00,968.13
+Madera,population,thousands,1/1/2000 0:00,49.07
+Madera,population,thousands,1/1/2005 0:00,55.4
+Madera,population,thousands,1/1/2010 0:00,50.385
+Madera,groundwater,Mgal/d,1/1/2000 0:00,3.31
+Madera,groundwater,Mgal/d,1/1/2005 0:00,8.71
+Madera,groundwater,Mgal/d,1/1/2010 0:00,2.78
+Madera,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.37
+Madera,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.97
+Madera,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.34
+Madera,selfsupplied,Mgal/d,1/1/2000 0:00,3.68
+Madera,selfsupplied,Mgal/d,1/1/2005 0:00,9.68
+Madera,selfsupplied,Mgal/d,1/1/2010 0:00,3.12
+Madera,selfpercapitause,gallons/day,1/1/2010 0:00,62
+Madera,public,Mgal/d,1/1/2005 0:00,19.66
+Madera,public,Mgal/d,1/1/2010 0:00,13.74
+Madera,publicpercapita,gallons/day,1/1/2010 0:00,137
+Madera,total,Mgal/d,1/1/2005 0:00,29.34
+Madera,total,Mgal/d,1/1/2010 0:00,16.86
+Marin,population,thousands,1/1/2000 0:00,3.77
+Marin,population,thousands,1/1/2005 0:00,0.31
+Marin,population,thousands,1/1/2010 0:00,5.043
+Marin,groundwater,Mgal/d,1/1/2000 0:00,0.25
+Marin,groundwater,Mgal/d,1/1/2005 0:00,0.76
+Marin,groundwater,Mgal/d,1/1/2010 0:00,0.31
+Marin,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.03
+Marin,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.05
+Marin,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.07
+Marin,selfsupplied,Mgal/d,1/1/2000 0:00,0.28
+Marin,selfsupplied,Mgal/d,1/1/2005 0:00,0.81
+Marin,selfsupplied,Mgal/d,1/1/2010 0:00,0.38
+Marin,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Marin,public,Mgal/d,1/1/2005 0:00,19.44
+Marin,public,Mgal/d,1/1/2010 0:00,21.86
+Marin,publicpercapita,gallons/day,1/1/2010 0:00,88
+Marin,total,Mgal/d,1/1/2005 0:00,20.25
+Marin,total,Mgal/d,1/1/2010 0:00,22.24
+Mariposa,population,thousands,1/1/2000 0:00,13.02
+Mariposa,population,thousands,1/1/2005 0:00,9.933
+Mariposa,population,thousands,1/1/2010 0:00,13.461
+Mariposa,groundwater,Mgal/d,1/1/2000 0:00,0.88
+Mariposa,groundwater,Mgal/d,1/1/2005 0:00,2.02
+Mariposa,groundwater,Mgal/d,1/1/2010 0:00,0.77
+Mariposa,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.1
+Mariposa,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.22
+Mariposa,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.24
+Mariposa,selfsupplied,Mgal/d,1/1/2000 0:00,0.98
+Mariposa,selfsupplied,Mgal/d,1/1/2005 0:00,2.24
+Mariposa,selfsupplied,Mgal/d,1/1/2010 0:00,1.01
+Mariposa,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Mariposa,public,Mgal/d,1/1/2005 0:00,4.09
+Mariposa,public,Mgal/d,1/1/2010 0:00,0.47
+Mariposa,publicpercapita,gallons/day,1/1/2010 0:00,98
+Mariposa,total,Mgal/d,1/1/2005 0:00,6.33
+Mariposa,total,Mgal/d,1/1/2010 0:00,1.48
+Mendocino,population,thousands,1/1/2000 0:00,33.24
+Mendocino,population,thousands,1/1/2005 0:00,30.465
+Mendocino,population,thousands,1/1/2010 0:00,25.901
+Mendocino,groundwater,Mgal/d,1/1/2000 0:00,2.24
+Mendocino,groundwater,Mgal/d,1/1/2005 0:00,3.05
+Mendocino,groundwater,Mgal/d,1/1/2010 0:00,1.63
+Mendocino,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.25
+Mendocino,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.03
+Mendocino,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.31
+Mendocino,selfsupplied,Mgal/d,1/1/2000 0:00,2.49
+Mendocino,selfsupplied,Mgal/d,1/1/2005 0:00,3.08
+Mendocino,selfsupplied,Mgal/d,1/1/2010 0:00,1.94
+Mendocino,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Mendocino,public,Mgal/d,1/1/2005 0:00,15.79
+Mendocino,public,Mgal/d,1/1/2010 0:00,5.57
+Mendocino,publicpercapita,gallons/day,1/1/2010 0:00,90
+Mendocino,total,Mgal/d,1/1/2005 0:00,18.87
+Mendocino,total,Mgal/d,1/1/2010 0:00,7.51
+Merced,population,thousands,1/1/2000 0:00,53.14
+Merced,population,thousands,1/1/2005 0:00,54.616
+Merced,population,thousands,1/1/2010 0:00,50.403
+Merced,groundwater,Mgal/d,1/1/2000 0:00,3.59
+Merced,groundwater,Mgal/d,1/1/2005 0:00,14.01
+Merced,groundwater,Mgal/d,1/1/2010 0:00,3.49
+Merced,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.4
+Merced,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,1.56
+Merced,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.29
+Merced,selfsupplied,Mgal/d,1/1/2000 0:00,3.99
+Merced,selfsupplied,Mgal/d,1/1/2005 0:00,15.57
+Merced,selfsupplied,Mgal/d,1/1/2010 0:00,3.78
+Merced,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Merced,public,Mgal/d,1/1/2005 0:00,37.93
+Merced,public,Mgal/d,1/1/2010 0:00,36.95
+Merced,publicpercapita,gallons/day,1/1/2010 0:00,180
+Merced,total,Mgal/d,1/1/2005 0:00,53.5
+Merced,total,Mgal/d,1/1/2010 0:00,40.73
+Modoc,population,thousands,1/1/2000 0:00,5.52
+Modoc,population,thousands,1/1/2005 0:00,5.62
+Modoc,population,thousands,1/1/2010 0:00,5.296
+Modoc,groundwater,Mgal/d,1/1/2000 0:00,0.38
+Modoc,groundwater,Mgal/d,1/1/2005 0:00,0.81
+Modoc,groundwater,Mgal/d,1/1/2010 0:00,0.36
+Modoc,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.04
+Modoc,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.2
+Modoc,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.04
+Modoc,selfsupplied,Mgal/d,1/1/2000 0:00,0.42
+Modoc,selfsupplied,Mgal/d,1/1/2005 0:00,1.01
+Modoc,selfsupplied,Mgal/d,1/1/2010 0:00,0.4
+Modoc,selfpercapitause,gallons/day,1/1/2010 0:00,76
+Modoc,public,Mgal/d,1/1/2005 0:00,1.8
+Modoc,public,Mgal/d,1/1/2010 0:00,0.72
+Modoc,publicpercapita,gallons/day,1/1/2010 0:00,164
+Modoc,total,Mgal/d,1/1/2005 0:00,2.81
+Modoc,total,Mgal/d,1/1/2010 0:00,1.12
+Mono,population,thousands,1/1/2000 0:00,5.64
+Mono,population,thousands,1/1/2005 0:00,2.582
+Mono,population,thousands,1/1/2010 0:00,2.312
+Mono,groundwater,Mgal/d,1/1/2000 0:00,0.38
+Mono,groundwater,Mgal/d,1/1/2005 0:00,0.89
+Mono,groundwater,Mgal/d,1/1/2010 0:00,0.09
+Mono,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.04
+Mono,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.15
+Mono,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.03
+Mono,selfsupplied,Mgal/d,1/1/2000 0:00,0.42
+Mono,selfsupplied,Mgal/d,1/1/2005 0:00,1.04
+Mono,selfsupplied,Mgal/d,1/1/2010 0:00,0.12
+Mono,selfpercapitause,gallons/day,1/1/2010 0:00,52
+Mono,public,Mgal/d,1/1/2005 0:00,2.31
+Mono,public,Mgal/d,1/1/2010 0:00,1.63
+Mono,publicpercapita,gallons/day,1/1/2010 0:00,137
+Mono,total,Mgal/d,1/1/2005 0:00,3.35
+Mono,total,Mgal/d,1/1/2010 0:00,1.75
+Monterey,population,thousands,1/1/2000 0:00,69.79
+Monterey,population,thousands,1/1/2005 0:00,63.658
+Monterey,population,thousands,1/1/2010 0:00,39.427
+Monterey,groundwater,Mgal/d,1/1/2000 0:00,4.71
+Monterey,groundwater,Mgal/d,1/1/2005 0:00,11.82
+Monterey,groundwater,Mgal/d,1/1/2010 0:00,1.82
+Monterey,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.52
+Monterey,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,1.32
+Monterey,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.2
+Monterey,selfsupplied,Mgal/d,1/1/2000 0:00,5.23
+Monterey,selfsupplied,Mgal/d,1/1/2005 0:00,13.14
+Monterey,selfsupplied,Mgal/d,1/1/2010 0:00,2.02
+Monterey,selfpercapitause,gallons/day,1/1/2010 0:00,51
+Monterey,public,Mgal/d,1/1/2005 0:00,29.38
+Monterey,public,Mgal/d,1/1/2010 0:00,28.9
+Monterey,publicpercapita,gallons/day,1/1/2010 0:00,77
+Monterey,total,Mgal/d,1/1/2005 0:00,42.52
+Monterey,total,Mgal/d,1/1/2010 0:00,30.92
+Napa,population,thousands,1/1/2000 0:00,19.95
+Napa,population,thousands,1/1/2005 0:00,17.673
+Napa,population,thousands,1/1/2010 0:00,17.904
+Napa,groundwater,Mgal/d,1/1/2000 0:00,1.35
+Napa,groundwater,Mgal/d,1/1/2005 0:00,1.33
+Napa,groundwater,Mgal/d,1/1/2010 0:00,0.92
+Napa,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.15
+Napa,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Napa,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.2
+Napa,selfsupplied,Mgal/d,1/1/2000 0:00,1.5
+Napa,selfsupplied,Mgal/d,1/1/2005 0:00,1.33
+Napa,selfsupplied,Mgal/d,1/1/2010 0:00,1.12
+Napa,selfpercapitause,gallons/day,1/1/2010 0:00,63
+Napa,public,Mgal/d,1/1/2005 0:00,10.89
+Napa,public,Mgal/d,1/1/2010 0:00,11
+Napa,publicpercapita,gallons/day,1/1/2010 0:00,93
+Napa,total,Mgal/d,1/1/2005 0:00,12.22
+Napa,total,Mgal/d,1/1/2010 0:00,12.12
+Nevada,population,thousands,1/1/2000 0:00,22.57
+Nevada,population,thousands,1/1/2005 0:00,41.466
+Nevada,population,thousands,1/1/2010 0:00,33.204
+Nevada,groundwater,Mgal/d,1/1/2000 0:00,1.52
+Nevada,groundwater,Mgal/d,1/1/2005 0:00,11.81
+Nevada,groundwater,Mgal/d,1/1/2010 0:00,1.94
+Nevada,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.17
+Nevada,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.16
+Nevada,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.55
+Nevada,selfsupplied,Mgal/d,1/1/2000 0:00,1.69
+Nevada,selfsupplied,Mgal/d,1/1/2005 0:00,11.97
+Nevada,selfsupplied,Mgal/d,1/1/2010 0:00,2.49
+Nevada,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Nevada,public,Mgal/d,1/1/2005 0:00,18.15
+Nevada,public,Mgal/d,1/1/2010 0:00,11.14
+Nevada,publicpercapita,gallons/day,1/1/2010 0:00,170
+Nevada,total,Mgal/d,1/1/2005 0:00,30.12
+Nevada,total,Mgal/d,1/1/2010 0:00,13.63
+Orange,population,thousands,1/1/2000 0:00,232.76
+Orange,population,thousands,1/1/2005 0:00,67.377
+Orange,population,thousands,1/1/2010 0:00,214.352
+Orange,groundwater,Mgal/d,1/1/2000 0:00,15.71
+Orange,groundwater,Mgal/d,1/1/2005 0:00,4.54
+Orange,groundwater,Mgal/d,1/1/2010 0:00,14.14
+Orange,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,1.75
+Orange,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.51
+Orange,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,1.88
+Orange,selfsupplied,Mgal/d,1/1/2000 0:00,17.46
+Orange,selfsupplied,Mgal/d,1/1/2005 0:00,5.05
+Orange,selfsupplied,Mgal/d,1/1/2010 0:00,16.02
+Orange,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Orange,public,Mgal/d,1/1/2005 0:00,211.46
+Orange,public,Mgal/d,1/1/2010 0:00,314.02
+Orange,publicpercapita,gallons/day,1/1/2010 0:00,112
+Orange,total,Mgal/d,1/1/2005 0:00,216.51
+Orange,total,Mgal/d,1/1/2010 0:00,330.04
+Placer,population,thousands,1/1/2000 0:00,25.92
+Placer,population,thousands,1/1/2005 0:00,32.218
+Placer,population,thousands,1/1/2010 0:00,43.132
+Placer,groundwater,Mgal/d,1/1/2000 0:00,1.75
+Placer,groundwater,Mgal/d,1/1/2005 0:00,8.29
+Placer,groundwater,Mgal/d,1/1/2010 0:00,2.59
+Placer,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.19
+Placer,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.1
+Placer,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.62
+Placer,selfsupplied,Mgal/d,1/1/2000 0:00,1.94
+Placer,selfsupplied,Mgal/d,1/1/2005 0:00,8.39
+Placer,selfsupplied,Mgal/d,1/1/2010 0:00,3.21
+Placer,selfpercapitause,gallons/day,1/1/2010 0:00,74
+Placer,public,Mgal/d,1/1/2005 0:00,35.37
+Placer,public,Mgal/d,1/1/2010 0:00,46.03
+Placer,publicpercapita,gallons/day,1/1/2010 0:00,151
+Placer,total,Mgal/d,1/1/2005 0:00,43.76
+Placer,total,Mgal/d,1/1/2010 0:00,49.24
+Plumas,population,thousands,1/1/2000 0:00,2.13
+Plumas,population,thousands,1/1/2005 0:00,3.081
+Plumas,population,thousands,1/1/2010 0:00,2.737
+Plumas,groundwater,Mgal/d,1/1/2000 0:00,0.14
+Plumas,groundwater,Mgal/d,1/1/2005 0:00,0.39
+Plumas,groundwater,Mgal/d,1/1/2010 0:00,0.15
+Plumas,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.02
+Plumas,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.39
+Plumas,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.06
+Plumas,selfsupplied,Mgal/d,1/1/2000 0:00,0.16
+Plumas,selfsupplied,Mgal/d,1/1/2005 0:00,0.78
+Plumas,selfsupplied,Mgal/d,1/1/2010 0:00,0.21
+Plumas,selfpercapitause,gallons/day,1/1/2010 0:00,77
+Plumas,public,Mgal/d,1/1/2005 0:00,3.11
+Plumas,public,Mgal/d,1/1/2010 0:00,2.02
+Plumas,publicpercapita,gallons/day,1/1/2010 0:00,117
+Plumas,total,Mgal/d,1/1/2005 0:00,3.89
+Plumas,total,Mgal/d,1/1/2010 0:00,2.23
+Riverside,population,thousands,1/1/2000 0:00,148.38
+Riverside,population,thousands,1/1/2005 0:00,44.05
+Riverside,population,thousands,1/1/2010 0:00,55.871
+Riverside,groundwater,Mgal/d,1/1/2000 0:00,10.02
+Riverside,groundwater,Mgal/d,1/1/2005 0:00,25.04
+Riverside,groundwater,Mgal/d,1/1/2010 0:00,2.78
+Riverside,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,1.11
+Riverside,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,2.78
+Riverside,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.47
+Riverside,selfsupplied,Mgal/d,1/1/2000 0:00,11.13
+Riverside,selfsupplied,Mgal/d,1/1/2005 0:00,27.82
+Riverside,selfsupplied,Mgal/d,1/1/2010 0:00,3.25
+Riverside,selfpercapitause,gallons/day,1/1/2010 0:00,58
+Riverside,public,Mgal/d,1/1/2005 0:00,345.41
+Riverside,public,Mgal/d,1/1/2010 0:00,338.87
+Riverside,publicpercapita,gallons/day,1/1/2010 0:00,159
+Riverside,total,Mgal/d,1/1/2005 0:00,373.23
+Riverside,total,Mgal/d,1/1/2010 0:00,342.12
+Sacramento,population,thousands,1/1/2000 0:00,64.03
+Sacramento,population,thousands,1/1/2005 0:00,14.725
+Sacramento,population,thousands,1/1/2010 0:00,18.688
+Sacramento,groundwater,Mgal/d,1/1/2000 0:00,4.32
+Sacramento,groundwater,Mgal/d,1/1/2005 0:00,3.39
+Sacramento,groundwater,Mgal/d,1/1/2010 0:00,0.61
+Sacramento,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.48
+Sacramento,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Sacramento,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.08
+Sacramento,selfsupplied,Mgal/d,1/1/2000 0:00,4.8
+Sacramento,selfsupplied,Mgal/d,1/1/2005 0:00,3.39
+Sacramento,selfsupplied,Mgal/d,1/1/2010 0:00,0.69
+Sacramento,selfpercapitause,gallons/day,1/1/2010 0:00,37
+Sacramento,public,Mgal/d,1/1/2005 0:00,134.53
+Sacramento,public,Mgal/d,1/1/2010 0:00,196.91
+Sacramento,publicpercapita,gallons/day,1/1/2010 0:00,141
+Sacramento,total,Mgal/d,1/1/2005 0:00,137.92
+Sacramento,total,Mgal/d,1/1/2010 0:00,197.6
+San Benito,population,thousands,1/1/2000 0:00,6.31
+San Benito,population,thousands,1/1/2005 0:00,12.098
+San Benito,population,thousands,1/1/2010 0:00,7.569
+San Benito,groundwater,Mgal/d,1/1/2000 0:00,0.43
+San Benito,groundwater,Mgal/d,1/1/2005 0:00,3.11
+San Benito,groundwater,Mgal/d,1/1/2010 0:00,0.42
+San Benito,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.05
+San Benito,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.35
+San Benito,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.15
+San Benito,selfsupplied,Mgal/d,1/1/2000 0:00,0.48
+San Benito,selfsupplied,Mgal/d,1/1/2005 0:00,3.46
+San Benito,selfsupplied,Mgal/d,1/1/2010 0:00,0.57
+San Benito,selfpercapitause,gallons/day,1/1/2010 0:00,75
+San Benito,public,Mgal/d,1/1/2005 0:00,5.47
+San Benito,public,Mgal/d,1/1/2010 0:00,4.55
+San Benito,publicpercapita,gallons/day,1/1/2010 0:00,95
+San Benito,total,Mgal/d,1/1/2005 0:00,8.93
+San Benito,total,Mgal/d,1/1/2010 0:00,5.12
+San Bernardino,population,thousands,1/1/2000 0:00,345.34
+San Bernardino,population,thousands,1/1/2005 0:00,208.24
+San Bernardino,population,thousands,1/1/2010 0:00,33.48
+San Bernardino,groundwater,Mgal/d,1/1/2000 0:00,23.31
+San Bernardino,groundwater,Mgal/d,1/1/2005 0:00,11.66
+San Bernardino,groundwater,Mgal/d,1/1/2010 0:00,0.89
+San Bernardino,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,2.59
+San Bernardino,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,6.01
+San Bernardino,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.25
+San Bernardino,selfsupplied,Mgal/d,1/1/2000 0:00,25.9
+San Bernardino,selfsupplied,Mgal/d,1/1/2005 0:00,17.67
+San Bernardino,selfsupplied,Mgal/d,1/1/2010 0:00,1.14
+San Bernardino,selfpercapitause,gallons/day,1/1/2010 0:00,34
+San Bernardino,public,Mgal/d,1/1/2005 0:00,258.92
+San Bernardino,public,Mgal/d,1/1/2010 0:00,259.53
+San Bernardino,publicpercapita,gallons/day,1/1/2010 0:00,130
+San Bernardino,total,Mgal/d,1/1/2005 0:00,276.59
+San Bernardino,total,Mgal/d,1/1/2010 0:00,260.67
+San Diego,population,thousands,1/1/2000 0:00,438.89
+San Diego,population,thousands,1/1/2005 0:00,9.832
+San Diego,population,thousands,1/1/2010 0:00,248.623
+San Diego,groundwater,Mgal/d,1/1/2000 0:00,29.63
+San Diego,groundwater,Mgal/d,1/1/2005 0:00,2.74
+San Diego,groundwater,Mgal/d,1/1/2010 0:00,14.67
+San Diego,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,3.29
+San Diego,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.3
+San Diego,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,3.99
+San Diego,selfsupplied,Mgal/d,1/1/2000 0:00,32.92
+San Diego,selfsupplied,Mgal/d,1/1/2005 0:00,3.04
+San Diego,selfsupplied,Mgal/d,1/1/2010 0:00,18.66
+San Diego,selfpercapitause,gallons/day,1/1/2010 0:00,75
+San Diego,public,Mgal/d,1/1/2005 0:00,251.19
+San Diego,public,Mgal/d,1/1/2010 0:00,278.19
+San Diego,publicpercapita,gallons/day,1/1/2010 0:00,98
+San Diego,total,Mgal/d,1/1/2005 0:00,254.23
+San Diego,total,Mgal/d,1/1/2010 0:00,296.85
+San Francisco,population,thousands,1/1/2000 0:00,26.73
+San Francisco,population,thousands,1/1/2005 0:00,42.53
+San Francisco,population,thousands,1/1/2010 0:00,0
+San Francisco,groundwater,Mgal/d,1/1/2000 0:00,1.8
+San Francisco,groundwater,Mgal/d,1/1/2005 0:00,2.86
+San Francisco,groundwater,Mgal/d,1/1/2010 0:00,0
+San Francisco,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.2
+San Francisco,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.31
+San Francisco,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0
+San Francisco,selfsupplied,Mgal/d,1/1/2000 0:00,2
+San Francisco,selfsupplied,Mgal/d,1/1/2005 0:00,3.17
+San Francisco,selfsupplied,Mgal/d,1/1/2010 0:00,0
+San Francisco,public,Mgal/d,1/1/2005 0:00,31.69
+San Francisco,public,Mgal/d,1/1/2010 0:00,41.81
+San Francisco,publicpercapita,gallons/day,1/1/2010 0:00,52
+San Francisco,total,Mgal/d,1/1/2005 0:00,34.86
+San Francisco,total,Mgal/d,1/1/2010 0:00,41.81
+San Joaquin,population,thousands,1/1/2000 0:00,102.34
+San Joaquin,population,thousands,1/1/2005 0:00,92.446
+San Joaquin,population,thousands,1/1/2010 0:00,69.256
+San Joaquin,groundwater,Mgal/d,1/1/2000 0:00,6.91
+San Joaquin,groundwater,Mgal/d,1/1/2005 0:00,17.1
+San Joaquin,groundwater,Mgal/d,1/1/2010 0:00,4.6
+San Joaquin,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.77
+San Joaquin,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+San Joaquin,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.24
+San Joaquin,selfsupplied,Mgal/d,1/1/2000 0:00,7.68
+San Joaquin,selfsupplied,Mgal/d,1/1/2005 0:00,17.1
+San Joaquin,selfsupplied,Mgal/d,1/1/2010 0:00,4.84
+San Joaquin,selfpercapitause,gallons/day,1/1/2010 0:00,70
+San Joaquin,public,Mgal/d,1/1/2005 0:00,98.94
+San Joaquin,public,Mgal/d,1/1/2010 0:00,72.28
+San Joaquin,publicpercapita,gallons/day,1/1/2010 0:00,117
+San Joaquin,total,Mgal/d,1/1/2005 0:00,116.04
+San Joaquin,total,Mgal/d,1/1/2010 0:00,77.12
+San Luis Obispo,population,thousands,1/1/2000 0:00,53.09
+San Luis Obispo,population,thousands,1/1/2005 0:00,39.758
+San Luis Obispo,population,thousands,1/1/2010 0:00,35.947
+San Luis Obispo,groundwater,Mgal/d,1/1/2000 0:00,3.58
+San Luis Obispo,groundwater,Mgal/d,1/1/2005 0:00,4.17
+San Luis Obispo,groundwater,Mgal/d,1/1/2010 0:00,1.39
+San Luis Obispo,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.4
+San Luis Obispo,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+San Luis Obispo,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.18
+San Luis Obispo,selfsupplied,Mgal/d,1/1/2000 0:00,3.98
+San Luis Obispo,selfsupplied,Mgal/d,1/1/2005 0:00,4.17
+San Luis Obispo,selfsupplied,Mgal/d,1/1/2010 0:00,1.57
+San Luis Obispo,selfpercapitause,gallons/day,1/1/2010 0:00,44
+San Luis Obispo,public,Mgal/d,1/1/2005 0:00,33.43
+San Luis Obispo,public,Mgal/d,1/1/2010 0:00,24.05
+San Luis Obispo,publicpercapita,gallons/day,1/1/2010 0:00,103
+San Luis Obispo,total,Mgal/d,1/1/2005 0:00,37.6
+San Luis Obispo,total,Mgal/d,1/1/2010 0:00,25.62
+San Mateo,population,thousands,1/1/2000 0:00,3.52
+San Mateo,population,thousands,1/1/2005 0:00,9.785
+San Mateo,population,thousands,1/1/2010 0:00,16.401
+San Mateo,groundwater,Mgal/d,1/1/2000 0:00,0.24
+San Mateo,groundwater,Mgal/d,1/1/2005 0:00,3.25
+San Mateo,groundwater,Mgal/d,1/1/2010 0:00,0.92
+San Mateo,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.03
+San Mateo,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.11
+San Mateo,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.33
+San Mateo,selfsupplied,Mgal/d,1/1/2000 0:00,0.27
+San Mateo,selfsupplied,Mgal/d,1/1/2005 0:00,3.36
+San Mateo,selfsupplied,Mgal/d,1/1/2010 0:00,1.25
+San Mateo,selfpercapitause,gallons/day,1/1/2010 0:00,76
+San Mateo,public,Mgal/d,1/1/2005 0:00,67.86
+San Mateo,public,Mgal/d,1/1/2010 0:00,56.92
+San Mateo,publicpercapita,gallons/day,1/1/2010 0:00,81
+San Mateo,total,Mgal/d,1/1/2005 0:00,71.22
+San Mateo,total,Mgal/d,1/1/2010 0:00,58.17
+Santa Barbara,population,thousands,1/1/2000 0:00,46.91
+Santa Barbara,population,thousands,1/1/2005 0:00,7.057
+Santa Barbara,population,thousands,1/1/2010 0:00,39.865
+Santa Barbara,groundwater,Mgal/d,1/1/2000 0:00,3.17
+Santa Barbara,groundwater,Mgal/d,1/1/2005 0:00,3.36
+Santa Barbara,groundwater,Mgal/d,1/1/2010 0:00,2.66
+Santa Barbara,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.35
+Santa Barbara,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.67
+Santa Barbara,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.32
+Santa Barbara,selfsupplied,Mgal/d,1/1/2000 0:00,3.52
+Santa Barbara,selfsupplied,Mgal/d,1/1/2005 0:00,4.03
+Santa Barbara,selfsupplied,Mgal/d,1/1/2010 0:00,2.98
+Santa Barbara,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Santa Barbara,public,Mgal/d,1/1/2005 0:00,40.68
+Santa Barbara,public,Mgal/d,1/1/2010 0:00,39.47
+Santa Barbara,publicpercapita,gallons/day,1/1/2010 0:00,103
+Santa Barbara,total,Mgal/d,1/1/2005 0:00,44.71
+Santa Barbara,total,Mgal/d,1/1/2010 0:00,42.45
+Santa Clara,population,thousands,1/1/2000 0:00,16.45
+Santa Clara,population,thousands,1/1/2005 0:00,13.714
+Santa Clara,population,thousands,1/1/2010 0:00,69.822
+Santa Clara,groundwater,Mgal/d,1/1/2000 0:00,1.11
+Santa Clara,groundwater,Mgal/d,1/1/2005 0:00,12.3
+Santa Clara,groundwater,Mgal/d,1/1/2010 0:00,4.59
+Santa Clara,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.12
+Santa Clara,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,2.7
+Santa Clara,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.65
+Santa Clara,selfsupplied,Mgal/d,1/1/2000 0:00,1.23
+Santa Clara,selfsupplied,Mgal/d,1/1/2005 0:00,15
+Santa Clara,selfsupplied,Mgal/d,1/1/2010 0:00,5.24
+Santa Clara,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Santa Clara,public,Mgal/d,1/1/2005 0:00,120.37
+Santa Clara,public,Mgal/d,1/1/2010 0:00,141.63
+Santa Clara,publicpercapita,gallons/day,1/1/2010 0:00,83
+Santa Clara,total,Mgal/d,1/1/2005 0:00,135.37
+Santa Clara,total,Mgal/d,1/1/2010 0:00,146.87
+Santa Cruz,population,thousands,1/1/2000 0:00,35
+Santa Cruz,population,thousands,1/1/2005 0:00,13.49
+Santa Cruz,population,thousands,1/1/2010 0:00,19.452
+Santa Cruz,groundwater,Mgal/d,1/1/2000 0:00,2.36
+Santa Cruz,groundwater,Mgal/d,1/1/2005 0:00,12.95
+Santa Cruz,groundwater,Mgal/d,1/1/2010 0:00,1.25
+Santa Cruz,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.26
+Santa Cruz,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,1.45
+Santa Cruz,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.21
+Santa Cruz,selfsupplied,Mgal/d,1/1/2000 0:00,2.62
+Santa Cruz,selfsupplied,Mgal/d,1/1/2005 0:00,14.4
+Santa Cruz,selfsupplied,Mgal/d,1/1/2010 0:00,1.46
+Santa Cruz,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Santa Cruz,public,Mgal/d,1/1/2005 0:00,17.05
+Santa Cruz,public,Mgal/d,1/1/2010 0:00,15.8
+Santa Cruz,publicpercapita,gallons/day,1/1/2010 0:00,65
+Santa Cruz,total,Mgal/d,1/1/2005 0:00,31.45
+Santa Cruz,total,Mgal/d,1/1/2010 0:00,17.26
+Shasta,population,thousands,1/1/2000 0:00,25.56
+Shasta,population,thousands,1/1/2005 0:00,44.666
+Shasta,population,thousands,1/1/2010 0:00,14.263
+Shasta,groundwater,Mgal/d,1/1/2000 0:00,1.73
+Shasta,groundwater,Mgal/d,1/1/2005 0:00,3.12
+Shasta,groundwater,Mgal/d,1/1/2010 0:00,0.83
+Shasta,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.19
+Shasta,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.62
+Shasta,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.24
+Shasta,selfsupplied,Mgal/d,1/1/2000 0:00,1.92
+Shasta,selfsupplied,Mgal/d,1/1/2005 0:00,3.74
+Shasta,selfsupplied,Mgal/d,1/1/2010 0:00,1.07
+Shasta,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Shasta,public,Mgal/d,1/1/2005 0:00,39.47
+Shasta,public,Mgal/d,1/1/2010 0:00,28.88
+Shasta,publicpercapita,gallons/day,1/1/2010 0:00,177
+Shasta,total,Mgal/d,1/1/2005 0:00,43.21
+Shasta,total,Mgal/d,1/1/2010 0:00,29.95
+Sierra,population,thousands,1/1/2000 0:00,1.89
+Sierra,population,thousands,1/1/2005 0:00,0.995
+Sierra,population,thousands,1/1/2010 0:00,0.41
+Sierra,groundwater,Mgal/d,1/1/2000 0:00,0.13
+Sierra,groundwater,Mgal/d,1/1/2005 0:00,0.82
+Sierra,groundwater,Mgal/d,1/1/2010 0:00,0.02
+Sierra,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.01
+Sierra,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.07
+Sierra,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.01
+Sierra,selfsupplied,Mgal/d,1/1/2000 0:00,0.14
+Sierra,selfsupplied,Mgal/d,1/1/2005 0:00,0.89
+Sierra,selfsupplied,Mgal/d,1/1/2010 0:00,0.03
+Sierra,selfpercapitause,gallons/day,1/1/2010 0:00,73
+Sierra,public,Mgal/d,1/1/2005 0:00,1.29
+Sierra,public,Mgal/d,1/1/2010 0:00,0.46
+Sierra,publicpercapita,gallons/day,1/1/2010 0:00,163
+Sierra,total,Mgal/d,1/1/2005 0:00,2.18
+Sierra,total,Mgal/d,1/1/2010 0:00,0.49
+Siskiyou,population,thousands,1/1/2000 0:00,20.56
+Siskiyou,population,thousands,1/1/2005 0:00,31.279
+Siskiyou,population,thousands,1/1/2010 0:00,16.32
+Siskiyou,groundwater,Mgal/d,1/1/2000 0:00,1.39
+Siskiyou,groundwater,Mgal/d,1/1/2005 0:00,3.39
+Siskiyou,groundwater,Mgal/d,1/1/2010 0:00,0.9
+Siskiyou,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.15
+Siskiyou,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,2.54
+Siskiyou,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.32
+Siskiyou,selfsupplied,Mgal/d,1/1/2000 0:00,1.54
+Siskiyou,selfsupplied,Mgal/d,1/1/2005 0:00,5.93
+Siskiyou,selfsupplied,Mgal/d,1/1/2010 0:00,1.22
+Siskiyou,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Siskiyou,public,Mgal/d,1/1/2005 0:00,3.85
+Siskiyou,public,Mgal/d,1/1/2010 0:00,3.55
+Siskiyou,publicpercapita,gallons/day,1/1/2010 0:00,124
+Siskiyou,total,Mgal/d,1/1/2005 0:00,9.78
+Siskiyou,total,Mgal/d,1/1/2010 0:00,4.77
+Solano,population,thousands,1/1/2000 0:00,8.64
+Solano,population,thousands,1/1/2005 0:00,35.4
+Solano,population,thousands,1/1/2010 0:00,5.054
+Solano,groundwater,Mgal/d,1/1/2000 0:00,0.58
+Solano,groundwater,Mgal/d,1/1/2005 0:00,1.71
+Solano,groundwater,Mgal/d,1/1/2010 0:00,0.33
+Solano,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.06
+Solano,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Solano,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.05
+Solano,selfsupplied,Mgal/d,1/1/2000 0:00,0.64
+Solano,selfsupplied,Mgal/d,1/1/2005 0:00,1.71
+Solano,selfsupplied,Mgal/d,1/1/2010 0:00,0.38
+Solano,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Solano,public,Mgal/d,1/1/2005 0:00,37.47
+Solano,public,Mgal/d,1/1/2010 0:00,39.29
+Solano,publicpercapita,gallons/day,1/1/2010 0:00,96
+Solano,total,Mgal/d,1/1/2005 0:00,39.18
+Solano,total,Mgal/d,1/1/2010 0:00,39.67
+Sonoma,population,thousands,1/1/2000 0:00,108.81
+Sonoma,population,thousands,1/1/2005 0:00,102.384
+Sonoma,population,thousands,1/1/2010 0:00,76.951
+Sonoma,groundwater,Mgal/d,1/1/2000 0:00,7.34
+Sonoma,groundwater,Mgal/d,1/1/2005 0:00,7.9
+Sonoma,groundwater,Mgal/d,1/1/2010 0:00,5.38
+Sonoma,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.82
+Sonoma,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.04
+Sonoma,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.39
+Sonoma,selfsupplied,Mgal/d,1/1/2000 0:00,8.16
+Sonoma,selfsupplied,Mgal/d,1/1/2005 0:00,7.94
+Sonoma,selfsupplied,Mgal/d,1/1/2010 0:00,5.77
+Sonoma,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Sonoma,public,Mgal/d,1/1/2005 0:00,55.14
+Sonoma,public,Mgal/d,1/1/2010 0:00,31.22
+Sonoma,publicpercapita,gallons/day,1/1/2010 0:00,77
+Sonoma,total,Mgal/d,1/1/2005 0:00,63.08
+Sonoma,total,Mgal/d,1/1/2010 0:00,36.99
+Stanislaus,population,thousands,1/1/2000 0:00,85.17
+Stanislaus,population,thousands,1/1/2005 0:00,73.54
+Stanislaus,population,thousands,1/1/2010 0:00,40.443
+Stanislaus,groundwater,Mgal/d,1/1/2000 0:00,5.76
+Stanislaus,groundwater,Mgal/d,1/1/2005 0:00,39.93
+Stanislaus,groundwater,Mgal/d,1/1/2010 0:00,2.85
+Stanislaus,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.64
+Stanislaus,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,4.44
+Stanislaus,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.19
+Stanislaus,selfsupplied,Mgal/d,1/1/2000 0:00,6.4
+Stanislaus,selfsupplied,Mgal/d,1/1/2005 0:00,44.37
+Stanislaus,selfsupplied,Mgal/d,1/1/2010 0:00,3.04
+Stanislaus,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Stanislaus,public,Mgal/d,1/1/2005 0:00,82.63
+Stanislaus,public,Mgal/d,1/1/2010 0:00,72.42
+Stanislaus,publicpercapita,gallons/day,1/1/2010 0:00,153
+Stanislaus,total,Mgal/d,1/1/2005 0:00,127
+Stanislaus,total,Mgal/d,1/1/2010 0:00,75.46
+Sutter,population,thousands,1/1/2000 0:00,21.31
+Sutter,population,thousands,1/1/2005 0:00,16.575
+Sutter,population,thousands,1/1/2010 0:00,6.757
+Sutter,groundwater,Mgal/d,1/1/2000 0:00,1.44
+Sutter,groundwater,Mgal/d,1/1/2005 0:00,6.47
+Sutter,groundwater,Mgal/d,1/1/2010 0:00,0.42
+Sutter,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.16
+Sutter,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Sutter,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.09
+Sutter,selfsupplied,Mgal/d,1/1/2000 0:00,1.6
+Sutter,selfsupplied,Mgal/d,1/1/2005 0:00,6.47
+Sutter,selfsupplied,Mgal/d,1/1/2010 0:00,0.51
+Sutter,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Sutter,public,Mgal/d,1/1/2005 0:00,13.48
+Sutter,public,Mgal/d,1/1/2010 0:00,10.68
+Sutter,publicpercapita,gallons/day,1/1/2010 0:00,121
+Sutter,total,Mgal/d,1/1/2005 0:00,19.95
+Sutter,total,Mgal/d,1/1/2010 0:00,11.19
+Tehama,population,thousands,1/1/2000 0:00,32.59
+Tehama,population,thousands,1/1/2005 0:00,27.153
+Tehama,population,thousands,1/1/2010 0:00,28.093
+Tehama,groundwater,Mgal/d,1/1/2000 0:00,2.2
+Tehama,groundwater,Mgal/d,1/1/2005 0:00,6.63
+Tehama,groundwater,Mgal/d,1/1/2010 0:00,1.57
+Tehama,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.24
+Tehama,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,3.98
+Tehama,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.54
+Tehama,selfsupplied,Mgal/d,1/1/2000 0:00,2.44
+Tehama,selfsupplied,Mgal/d,1/1/2005 0:00,10.61
+Tehama,selfsupplied,Mgal/d,1/1/2010 0:00,2.11
+Tehama,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Tehama,public,Mgal/d,1/1/2005 0:00,15.75
+Tehama,public,Mgal/d,1/1/2010 0:00,4.18
+Tehama,publicpercapita,gallons/day,1/1/2010 0:00,118
+Tehama,total,Mgal/d,1/1/2005 0:00,26.36
+Tehama,total,Mgal/d,1/1/2010 0:00,6.29
+Trinity,population,thousands,1/1/2000 0:00,6.72
+Trinity,population,thousands,1/1/2005 0:00,5.96
+Trinity,population,thousands,1/1/2010 0:00,6.326
+Trinity,groundwater,Mgal/d,1/1/2000 0:00,0.45
+Trinity,groundwater,Mgal/d,1/1/2005 0:00,0.94
+Trinity,groundwater,Mgal/d,1/1/2010 0:00,0.36
+Trinity,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.05
+Trinity,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Trinity,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.12
+Trinity,selfsupplied,Mgal/d,1/1/2000 0:00,0.5
+Trinity,selfsupplied,Mgal/d,1/1/2005 0:00,0.94
+Trinity,selfsupplied,Mgal/d,1/1/2010 0:00,0.48
+Trinity,selfpercapitause,gallons/day,1/1/2010 0:00,76
+Trinity,public,Mgal/d,1/1/2005 0:00,1.68
+Trinity,public,Mgal/d,1/1/2010 0:00,0.82
+Trinity,publicpercapita,gallons/day,1/1/2010 0:00,110
+Trinity,total,Mgal/d,1/1/2005 0:00,2.62
+Trinity,total,Mgal/d,1/1/2010 0:00,1.3
+Tulare,population,thousands,1/1/2000 0:00,103.42
+Tulare,population,thousands,1/1/2005 0:00,85.574
+Tulare,population,thousands,1/1/2010 0:00,67.239
+Tulare,groundwater,Mgal/d,1/1/2000 0:00,6.98
+Tulare,groundwater,Mgal/d,1/1/2005 0:00,25.89
+Tulare,groundwater,Mgal/d,1/1/2010 0:00,4.6
+Tulare,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.78
+Tulare,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,2.88
+Tulare,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.44
+Tulare,selfsupplied,Mgal/d,1/1/2000 0:00,7.76
+Tulare,selfsupplied,Mgal/d,1/1/2005 0:00,28.77
+Tulare,selfsupplied,Mgal/d,1/1/2010 0:00,5.04
+Tulare,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Tulare,public,Mgal/d,1/1/2005 0:00,62.03
+Tulare,public,Mgal/d,1/1/2010 0:00,50.25
+Tulare,publicpercapita,gallons/day,1/1/2010 0:00,134
+Tulare,total,Mgal/d,1/1/2005 0:00,90.8
+Tulare,total,Mgal/d,1/1/2010 0:00,55.29
+Tuolumne,population,thousands,1/1/2000 0:00,0.28
+Tuolumne,population,thousands,1/1/2005 0:00,4.767
+Tuolumne,population,thousands,1/1/2010 0:00,6.585
+Tuolumne,groundwater,Mgal/d,1/1/2000 0:00,0.02
+Tuolumne,groundwater,Mgal/d,1/1/2005 0:00,4.05
+Tuolumne,groundwater,Mgal/d,1/1/2010 0:00,0.15
+Tuolumne,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0
+Tuolumne,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.04
+Tuolumne,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.04
+Tuolumne,selfsupplied,Mgal/d,1/1/2000 0:00,0.02
+Tuolumne,selfsupplied,Mgal/d,1/1/2005 0:00,4.09
+Tuolumne,selfsupplied,Mgal/d,1/1/2010 0:00,0.19
+Tuolumne,selfpercapitause,gallons/day,1/1/2010 0:00,29
+Tuolumne,public,Mgal/d,1/1/2005 0:00,14.96
+Tuolumne,public,Mgal/d,1/1/2010 0:00,5.85
+Tuolumne,publicpercapita,gallons/day,1/1/2010 0:00,120
+Tuolumne,total,Mgal/d,1/1/2005 0:00,19.05
+Tuolumne,total,Mgal/d,1/1/2010 0:00,6.04
+Ventura,population,thousands,1/1/2000 0:00,16.23
+Ventura,population,thousands,1/1/2005 0:00,1.98
+Ventura,population,thousands,1/1/2010 0:00,51.338
+Ventura,groundwater,Mgal/d,1/1/2000 0:00,0.83
+Ventura,groundwater,Mgal/d,1/1/2005 0:00,0.67
+Ventura,groundwater,Mgal/d,1/1/2010 0:00,2.43
+Ventura,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.09
+Ventura,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.67
+Ventura,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,1.2
+Ventura,selfsupplied,Mgal/d,1/1/2000 0:00,0.92
+Ventura,selfsupplied,Mgal/d,1/1/2005 0:00,1.34
+Ventura,selfsupplied,Mgal/d,1/1/2010 0:00,3.63
+Ventura,selfpercapitause,gallons/day,1/1/2010 0:00,71
+Ventura,public,Mgal/d,1/1/2005 0:00,89
+Ventura,public,Mgal/d,1/1/2010 0:00,89.24
+Ventura,publicpercapita,gallons/day,1/1/2010 0:00,116
+Ventura,total,Mgal/d,1/1/2005 0:00,90.34
+Ventura,total,Mgal/d,1/1/2010 0:00,92.87
+Yolo,population,thousands,1/1/2000 0:00,33.46
+Yolo,population,thousands,1/1/2005 0:00,19.761
+Yolo,population,thousands,1/1/2010 0:00,14.539
+Yolo,groundwater,Mgal/d,1/1/2000 0:00,2.26
+Yolo,groundwater,Mgal/d,1/1/2005 0:00,12.2
+Yolo,groundwater,Mgal/d,1/1/2010 0:00,1.04
+Yolo,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.25
+Yolo,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0
+Yolo,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.04
+Yolo,selfsupplied,Mgal/d,1/1/2000 0:00,2.51
+Yolo,selfsupplied,Mgal/d,1/1/2005 0:00,12.2
+Yolo,selfsupplied,Mgal/d,1/1/2010 0:00,1.08
+Yolo,selfpercapitause,gallons/day,1/1/2010 0:00,74
+Yolo,public,Mgal/d,1/1/2005 0:00,23.53
+Yolo,public,Mgal/d,1/1/2010 0:00,24.99
+Yolo,publicpercapita,gallons/day,1/1/2010 0:00,134
+Yolo,total,Mgal/d,1/1/2005 0:00,35.73
+Yolo,total,Mgal/d,1/1/2010 0:00,26.07
+Yuba,population,thousands,1/1/2000 0:00,20.89
+Yuba,population,thousands,1/1/2005 0:00,24.588
+Yuba,population,thousands,1/1/2010 0:00,11.465
+Yuba,groundwater,Mgal/d,1/1/2000 0:00,1.41
+Yuba,groundwater,Mgal/d,1/1/2005 0:00,3.35
+Yuba,groundwater,Mgal/d,1/1/2010 0:00,0.8
+Yuba,selfsuppliedsurface,Mgal/d,1/1/2000 0:00,0.16
+Yuba,selfsuppliedsurface,Mgal/d,1/1/2005 0:00,0.21
+Yuba,selfsuppliedsurface,Mgal/d,1/1/2010 0:00,0.06
+Yuba,selfsupplied,Mgal/d,1/1/2000 0:00,1.57
+Yuba,selfsupplied,Mgal/d,1/1/2005 0:00,3.56
+Yuba,selfsupplied,Mgal/d,1/1/2010 0:00,0.86
+Yuba,selfpercapitause,gallons/day,1/1/2010 0:00,75
+Yuba,public,Mgal/d,1/1/2005 0:00,9.27
+Yuba,public,Mgal/d,1/1/2010 0:00,7.1
+Yuba,publicpercapita,gallons/day,1/1/2010 0:00,117
+Yuba,total,Mgal/d,1/1/2005 0:00,12.83
+Yuba,total,Mgal/d,1/1/2010 0:00,7.96
